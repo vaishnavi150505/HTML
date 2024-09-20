@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML with Links and Images</title>
+</head>
+<body>
+    <h1>My Favorite Website</h1>
+    <p>Visit <a href="https://www.example.com" target="_blank">Example.com</a> for more information.</p>
+    <img src="https://www.example.com/image.jpg" alt="Sample Image" width="300">
+</body>
+</html>
