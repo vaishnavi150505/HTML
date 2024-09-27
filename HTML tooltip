@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Tooltip Example</title>
+</head>
+<body>
+    <h2>Hover over the words below</h2>
+    <p>This is a <span title="A small, red fruit">cherry</span>.</p>
+    <p>This is a <span title="A tropical, yellow fruit">banana</span>.</p>
+</body>
+</html>
