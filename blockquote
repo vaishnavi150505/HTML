@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Blockquote Example</title>
+</head>
+<body>
+    <h2>Famous Quote</h2>
+    <blockquote cite="https://www.brainyquote.com/">
+        "The only limit to our realization of tomorrow is our doubts of today."
+    </blockquote>
+    <p>- Franklin D. Roosevelt</p>
+</body>
+</html>
