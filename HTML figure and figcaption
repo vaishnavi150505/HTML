@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Figure and Figcaption</title>
+</head>
+<body>
+    <h2>Image with Caption</h2>
+    <figure>
+        <img src="image.jpg" alt="A scenic view" width="400">
+        <figcaption>A beautiful scenic view of the mountains.</figcaption>
+    </figure>
+</body>
+</html>
