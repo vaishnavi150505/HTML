@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Details & Summary Example</title>
+</head>
+<body>
+    <h2>Expandable Content</h2>
+    <details>
+        <summary>Click here for more information</summary>
+        <p>This is hidden content that will be displayed when you click the summary.</p>
+    </details>
+</body>
+</html>
