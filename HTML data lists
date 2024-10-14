@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Data List Example</title>
+</head>
+<body>
+    <h2>Choose Your Favorite Fruit</h2>
+    <form>
+        <label for="fruits">Favorite fruit:</label>
+        <input list="fruits" name="fruit" id="fruit">
+        <datalist id="fruits">
+            <option value="Apple">
+            <option value="Banana">
+            <option value="Cherry">
+            <option value="Grapes">
+            <option value="Orange">
+        </datalist>
+        <input type="submit">
+    </form>
+</body>
+</html>
